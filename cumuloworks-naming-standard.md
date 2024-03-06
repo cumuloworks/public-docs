@@ -19,9 +19,9 @@
 
 - 命名は[https://www.abbreviations.com/](https://www.abbreviations.com/) などを参考に、**分かりやすさを損なわない範囲で**極力短くする。一般的でない省略法を使う場合は、単語の最初を抜き出すほうが好ましい。（よく使用するものはドキュメント最後に記載）
 
-  良い例: `**dev**elopment → dev` `**sched**ule → sched`
+  良い例: `development → dev` `schedule → sched`
 
-  悪い例: `**s**ha**d**in**g** → sdg`
+  悪い例: `shading → sdg`
 
 - フォルダ階層は可能な限り浅く構築し、フォルダで細かく分類するよりは検索機能を使うことを優先する。
 

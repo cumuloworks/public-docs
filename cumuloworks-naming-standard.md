@@ -136,6 +136,8 @@
 
   `character` = キャラクター
 
+  `fx` = エフェクト
+
   `environment` = 背景
 
   `sim` or `simulation` = シミュレーション作業

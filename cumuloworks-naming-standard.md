@@ -79,8 +79,8 @@
 - コンポジション名と一致したフォルダ名を作成し、その中に mp4, mov ファイルなどを格納する。
   - mp4, mov のファイル名は`コンポジション名_yyyy-mm-ddTHHMMSS.拡張子` で統一する。
     - e.g. `CUT020_2015-01-3131T153049.mov`
-  - ae では以下のトークンを使用し、プロジェクトのルートフォルダを指定してレンダリングする。
-    - `comp\ae\export\[compName]\[compName]_[dateYear]-[dateMonth]-[dateDay]T[timeHour][timeMins][timeSecs].[fileextension]`
+  - ae では以下のトークンを使用してレンダリングする。
+    - `[projectFolder]\export\[compName]\[compName]_[dateYear]-[dateMonth]-[dateDay]T[timeHour][timeMins][timeSecs].[fileextension]`
 
 ## c4d フォルダ内の構造
 

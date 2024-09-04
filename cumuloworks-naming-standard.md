@@ -72,6 +72,7 @@
   - `export` = AE からレンダリングしたファイルを保存する。
   - `footage` = プロジェクトフォルダ外の、AE で使用するフッテージ（主に素材）を保存する。
   - `lut` = Apply Color LUT エフェクト内で使用する LUT を保存する。
+  - `scripts` = プロジェクト固有で使用するスクリプトを保存する。
   - 今後使わないファイルについては`(old)` フォルダを作成し、移動する。
 
 ### ae\export フォルダ内の構造
@@ -155,23 +156,23 @@
 
 # 主な省略法
 
-| word                  | abbreviation | description                                                                             | --- |
-| --------------------- | ------------ | --------------------------------------------------------------------------------------- | --- |
-| background            | bg           | 「背景」という意味で使う場合は、environment / env を使用するほうが好ましい              |     |
-| choreography          | choreo       |                                                                                         |     |
-| cinema 4d             | c4d          |                                                                                         |     |
-| composition/composite | comp         |                                                                                         |     |
-| delivery              | del          |                                                                                         |     |
-| development           | dev          |                                                                                         |     |
-| documents             | docs         |                                                                                         |     |
-| environment           | env          |                                                                                         |     |
-| initial documents     | init         | in フォルダなどで、プロジェクト開始時にまとめて送られてきたファイルなどの呼称として使用 |     |
-| motion capture        | mocap        |                                                                                         |     |
-| previsualization      | previz       |                                                                                         |     |
-| project               | prj          |                                                                                         |     |
-| schedule              | sched        |                                                                                         |     |
-| texture               | tex          |                                                                                         |     |
-| V コンテ              | vcon         |                                                                                         |     |
-| simulation            | sim          |                                                                                         |     |
-| animation             | anim         |                                                                                         |     |
-|                       |              |                                                                                         |     |
+| word                  | abbreviation | description                                                                             |
+| --------------------- | ------------ | --------------------------------------------------------------------------------------- |
+| background            | bg           | 「背景」という意味で使う場合は、environment / env を使用するほうが好ましい              |
+| choreography          | choreo       |                                                                                         |
+| cinema 4d             | c4d          |                                                                                         |
+| composition/composite | comp         |                                                                                         |
+| delivery              | del          |                                                                                         |
+| development           | dev          |                                                                                         |
+| documents             | docs         |                                                                                         |
+| environment           | env          |                                                                                         |
+| initial documents     | init         | in フォルダなどで、プロジェクト開始時にまとめて送られてきたファイルなどの呼称として使用 |
+| motion capture        | mocap        |                                                                                         |
+| pre-visualization     | previz       |                                                                                         |
+| project               | prj          |                                                                                         |
+| schedule              | sched        |                                                                                         |
+| texture               | tex          |                                                                                         |
+| V コンテ              | vcon         |                                                                                         |
+| simulation            | sim          |                                                                                         |
+| animation             | anim         |                                                                                         |
+|                       |              |                                                                                         |

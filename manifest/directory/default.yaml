@@ -30,6 +30,8 @@ manifest:
         render:
         tex:
         xpcache:
+    fusion:
+      render:
     md:
     pr:
       export:

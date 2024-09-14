@@ -15,6 +15,7 @@ manifest:
       scenes:
         alembic:
         backup:
+        c4dsrc:
         fbx:
         obj:
         orbx:
@@ -45,7 +46,11 @@ manifest:
     unity:
     zbrush:
   in:
+    \_.*\:
+    \[0-9]{4}-[0-9]{2}-[0-9]{2}_.*\:
   out:
+    \_.*\:
+    \[0-9]{4}-[0-9]{2}-[0-9]{2}_.*\:
   portfolio:
 
 ignored: [" Logs", "Auto-Save", "^\\..*$", "\\(.*?\\)"]
